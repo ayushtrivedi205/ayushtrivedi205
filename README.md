@@ -1,4 +1,4 @@
-# Hey there! I'm Ayush 👋🎯
+# Hey there! I'm Ayush 👋
 ![Me](kylian.png)
 > *"Turning raw data into stories that actually make sense."*
 
