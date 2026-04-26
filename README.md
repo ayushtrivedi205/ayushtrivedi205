@@ -29,7 +29,7 @@
 
 ## 📂 Featured Projects
 
-### 📦 [Sales Analysis — Amazon Products](https://github.com/YOUR_USERNAME/sales-analysis-amazon)
+### 📦 [Amazon Products Sales Analysis](https://github.com/ayushtrivedi205/Amazon-Products-Sales-Analysis)
 > A Power BI dashboard tracking $2.18M in YTD sales across product categories, with weekly trends, top products, and interactive slicers.  
 > `Power BI` `DAX` `Data Visualization`
 
