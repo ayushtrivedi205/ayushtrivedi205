@@ -2,8 +2,8 @@
 
 > *"Turning raw data into stories that actually make sense."*
 
-🎓 B.Tech CSE (Data Science) — 3rd Year  
-📍 Kanpur, Uttar Pradesh, India  
+🎓 B.Tech CSE (Data Science) — Pre-Final Year  
+📍 Uttar Pradesh, India  
 🚀 On a mission to make data do the talking
 
 ---
