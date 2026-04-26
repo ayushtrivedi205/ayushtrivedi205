@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushtrivedi205 &color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ayushtrivedi205&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center">⭐ <i>If you like my work, consider starring my repos — it means a lot!</i> ⭐</p>
