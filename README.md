@@ -53,7 +53,7 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushtrivedi205?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushtrivedi205?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushtrivedi205@gmail.com)
 
 ---
