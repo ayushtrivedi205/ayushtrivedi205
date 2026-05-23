@@ -2,7 +2,7 @@
 ![Me](kylian.png)
 > *"Turning raw data into stories that actually make sense."*
 
-🎓 B.Tech CSE (Data Science) — Pre-Final Year  
+🎓 B.Tech CSE (Data Science) — Final Year  
 📍 Uttar Pradesh, India  
 🚀 On a mission to make data do the talking
 
