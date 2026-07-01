@@ -93,10 +93,6 @@ I'm a final-year Data Science student who loves digging into datasets, building 
 
 <div align="center">
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushtrivedi205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtrivedi205&layout=compact&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayushtrivedi205&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
